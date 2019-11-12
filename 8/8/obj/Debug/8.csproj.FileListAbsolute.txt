@@ -1,0 +1,2 @@
+C:\Users\student\Desktop\Пинаев Алексей\Строки\8\8\bin\Debug\8.exe.config
+C:\Users\student\Desktop\Пинаев Алексей\Строки\8\8\obj\Debug\8.csprojResolveAssemblyReference.cache
