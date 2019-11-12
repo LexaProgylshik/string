@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Пинаев Алексей\Строки\9\9\bin\Debug\9.exe.config
+C:\Users\student\Desktop\Пинаев Алексей\Строки\9\9\bin\Debug\9.exe
+C:\Users\student\Desktop\Пинаев Алексей\Строки\9\9\bin\Debug\9.pdb
+C:\Users\student\Desktop\Пинаев Алексей\Строки\9\9\obj\Debug\9.exe
+C:\Users\student\Desktop\Пинаев Алексей\Строки\9\9\obj\Debug\9.pdb
