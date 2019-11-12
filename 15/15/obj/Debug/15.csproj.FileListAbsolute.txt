@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Пинаев Алексей\Строки\15\15\bin\Debug\15.exe.config
+C:\Users\student\Desktop\Пинаев Алексей\Строки\15\15\bin\Debug\15.exe
+C:\Users\student\Desktop\Пинаев Алексей\Строки\15\15\bin\Debug\15.pdb
+C:\Users\student\Desktop\Пинаев Алексей\Строки\15\15\obj\Debug\15.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Пинаев Алексей\Строки\15\15\obj\Debug\15.exe
+C:\Users\student\Desktop\Пинаев Алексей\Строки\15\15\obj\Debug\15.pdb
